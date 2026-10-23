@@ -1,0 +1,13 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+my_env
+venv
+node_modules
+web/node_modules
+web/dist
+__pycache__
+*.py[cod]
+.cache
